@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.avito.ru/user/f5a5197f19da921fa62f80e656bc1797/profile?src=sharing">
-    <img src="https://img.shields.io/badge/Avito-green?style=for-the=badge&logo=avito&logoColor=green" alt="Avito Badge" width="55"/>
+    <img src="https://img.shields.io/badge/AVITO-green?style=for-the=badge&logo=avito&logoColor=green" alt="Avito Badge" width="65"/>
   </a>
 
 
