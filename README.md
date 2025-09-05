@@ -4,13 +4,15 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href=(https://www.youtube.com/@justmiklenrg7337)">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+  <a href="https://www.avito.ru/user/f5a5197f19da921fa62f80e656bc1797/profile?src=sharing">
+    <img src="https://img.shields.io/badge/Avito-green?style=for-the=badge&logo=avito&logoColor=green" alt="Avito Badge" width="55"/>
+  </a>
 
 
 # Hello there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is MiKle Brownie
