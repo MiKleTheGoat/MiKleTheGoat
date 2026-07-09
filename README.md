@@ -18,7 +18,7 @@
 
 ## 👋 Hey, I'm MiKle Brownie
 
-> *Just a guy who started with Python 2 years ago and got hooked. Not a senior wizard — just consistently curious.*
+> *Just a guy who started with Python 3 years ago and got hooked. Not a senior wizard — just consistently curious.*
 
 - 🌍 Based in **Russia**
 - 🎯 Focused on **Data Science**, **ML** and slowly getting into **MLOps**
