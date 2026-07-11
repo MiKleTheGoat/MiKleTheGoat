@@ -141,7 +141,8 @@ Docker         ██████░░░░░░░░░   using, not master
   <i>Still learning. Always building.</i>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:84cc16,50:0891b2,100:0f172a&height=120&section=footer" alt="footer"/>
+<img width="100%" 
+src="https://capsule-render.vercel.app/api?type=waving&color=0:84cc16,50:0891b2,100:0f172a&height=120&section=footer" alt="footer"/>
 ![PyTorch](https://img.shields.io/badge/PyTorch-0F172A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=FFFFFF)
 ![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=4DABCF)
@@ -206,8 +207,6 @@ Docker         ██████░░░░░░░░░   using, not master
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiKleTheGoat&layout=compact&langs_count=8&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&custom_title=Most%20Used%20Languages" alt="top langs" />
 
   <br/><br/>
-
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=MiKleTheGoat&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
 
 </div>
 
